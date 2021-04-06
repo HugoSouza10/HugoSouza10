@@ -14,5 +14,4 @@ Sou honesto, sincero e busco por oportunidades e aprendizagem.
 adoro trabalhar com tecnologias mais especificamente com a parte visual
 das coisas.
 
-Contatos:
 
