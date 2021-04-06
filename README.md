@@ -16,4 +16,3 @@ das coisas.
 
 Contatos:
 
-Github Badge Linkedin Badge Gmail Badge
