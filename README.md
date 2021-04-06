@@ -1,10 +1,8 @@
-💻 Hugo Souza
-Github Badge Linkedin Badge Gmail Badge
-
-Opa, tudo bem?
-Meu nome é Hugo, eu sou Tecnólogo em Análise e Desenvolvimento de Sistemas, 
-atualmente estou em busca de trabalho na área como desenvolvedor front-end junior.
-Sou honesto, sincero e busco por oportunidades e aprendizagem.
+💻 <h1>Hugo Souza</h1>
+    <p>Opa, tudo bem?
+    Meu nome é Hugo, eu sou Tecnólogo em Análise e Desenvolvimento de Sistemas, 
+    atualmente estou em busca de trabalho na área como desenvolvedor front-end junior.
+    Sou honesto, sincero e busco por oportunidades e aprendizagem.</p>
 
 <ul>
   <li>💻 Front-end.</li>
