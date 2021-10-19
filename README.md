@@ -7,7 +7,7 @@
 <ul>
   <li>💻 Front-end.</li>
   <li>🔍 Atualmente aberto a novas oportunidades.</li>
-  <li>📰 Trabalho por enquanto com HTML5, CSS3 E JS.</li>
+  <li>📰 Trabalho por enquanto com HTML5, CSS3 E JS, BOOTRAP.</li>
   <li>📡 Neste momento busco colaborar com projetos Front-end.</li>
   <li>💬 Sobre mim: Apaixonado por tecnologia desde os meus 10 anos de idades,</li>
   <li>adoro trabalhar com tecnologias mais especificamente com a parte visual 
